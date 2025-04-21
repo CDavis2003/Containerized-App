@@ -1,0 +1,14 @@
+{
+  "name": "medieval_images",
+  "version": "1.0.0",
+  "description": "Medieval Images of the World",
+  "main": "src/server.js",
+  "scripts": {
+      "start": "node src/server.js"
+  },
+  "dependencies": {
+      "express": "^4.18.2",
+      "mustache-express": "^1.3.2",
+      "pg": "^8.10.0"
+  }
+}
